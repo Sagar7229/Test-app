@@ -1,24 +1,27 @@
+# Exam
 
-Online Test Application.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
-Developer Name: Sagar Jaiswal
+## Development server
 
-Project objective:
-As a Full Stack Developer, you have to develop an online test portal for assessment.
-Background of the problem statement:
-As the project is progressing, the management has asked you to create an online test application
-in order to help the recruitment team take online tests of the candidates coming for interviews.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-You must use the following:
- Visual Studio Code
- NodeJS
- Angular
- GitHub
+## Code scaffolding
 
-Following requirements should be met:
- A few of the source codes should be tracked on GitHub repositories. You need to
-document the tracked files that are ignored during the final push to the GitHub
-repository.
- The submission of your GitHub repository link is mandatory. In order to track your
-task, you need to share the link of the repository in the document.
- The step-by-step process involved in completing this task should be documented.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
