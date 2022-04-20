@@ -1,6 +1,8 @@
-#Project Objective:
+Online Test Application.
+
 github link: https://github.com/Sagar7229/Test-application
 
+#Project Objective:
 As a Full Stack Developer, you have to develop an online test portal for assessment.
 
 #Background of the problem statement:
