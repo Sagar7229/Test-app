@@ -1,7 +1,6 @@
-# Test-Portal
-
 
 Online Test Application.
+
 Developer Name: Sagar Jaiswal
 
 Project objective:
